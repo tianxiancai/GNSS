@@ -1,3 +1,2 @@
 # GNSS
-## GNSSS
 BDS/GNSS
